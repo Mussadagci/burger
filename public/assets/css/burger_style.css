@@ -1,0 +1,27 @@
+body {
+    background-color: #88290c;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+  p{
+      color:yellowgreen;
+  }
+ 
+  .jumbotron h1{
+      color: #dfc21a;
+  
+  }
+  
+  .jumbotron{
+      padding-top: 1%;
+      background-color:transparent !important;
+  }
+  
+  img {
+  margin-top: 5%;
+    width: 15%;
+  }
+  
+  .submitFont{
+      color: green;
+  }
