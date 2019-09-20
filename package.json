@@ -1,9 +1,10 @@
 {
   "name": "burger",
   "version": "1.0.0",
-  "description": "'Node Express Handlebars'",
+  "description": "Burger",
   "main": "server.js",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "dotenv": "^8.1.0",
     "export": "^0.1.337",
     "express": "^4.17.1",
@@ -19,6 +20,14 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mussadagci/burger.git"
+  },
   "author": "Musa Bagci",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mussadagci/burger/issues"
+  },
+  "homepage": "https://github.com/Mussadagci/burger#readme"
 }
